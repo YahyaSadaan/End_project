@@ -613,3 +613,6 @@ D:\مشروع صيدليه جاهزززززز\Management-Project-Pharmacy-Desckt
 D:\مشروع صيدليه جاهزززززز\Management-Project-Pharmacy-Descktop-7ba047b5d4a67e01faf6f9ce615d7ee07a7b7395\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.licenses
 D:\مشروع صيدليه جاهزززززز\Management-Project-Pharmacy-Descktop-7ba047b5d4a67e01faf6f9ce615d7ee07a7b7395\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.manifest
 D:\مشروع صيدليه جاهزززززز\Management-Project-Pharmacy-Descktop-7ba047b5d4a67e01faf6f9ce615d7ee07a7b7395\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.application
+D:\end_progectt\End_project\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+D:\end_progectt\End_project\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+D:\end_progectt\End_project\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
