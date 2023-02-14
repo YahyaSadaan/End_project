@@ -616,3 +616,4 @@ D:\مشروع صيدليه جاهزززززز\Management-Project-Pharmacy-Desckt
 D:\end_progectt\End_project\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
 D:\end_progectt\End_project\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
 D:\end_progectt\End_project\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+D:\end_progectt\End_project\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
